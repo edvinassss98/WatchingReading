@@ -9,3 +9,7 @@ from django.contrib import admin
 # migration
 #python manage.py makemigrations
 # python manage.py migrate s
+
+
+
+#Testing still now i want to merge using git from pycharm side
